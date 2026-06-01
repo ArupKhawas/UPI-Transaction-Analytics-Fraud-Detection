@@ -494,7 +494,7 @@ Refresh data
 **Arup Ranjan**  
 Data Analyst | B.Tech Computer Science (2025) | Data Analytics Program (Ongoing)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arup-ranjananalytics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arup-ranjan-analytics)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arupranjan0563@gmail.com)
 
 ---
